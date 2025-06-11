@@ -2,6 +2,10 @@
 
 Scan a document containing a contact table and extract the content within the table in a formatted way. 
 
+| Document | Extraction |
+|------|--------|
+| ![Document Image](.README/document.png) | ![Extraction Image](.README/parsed.png) |
+
 ## Overview
 
 > Note: This sample code project is associated with WWDC25 session 272:
